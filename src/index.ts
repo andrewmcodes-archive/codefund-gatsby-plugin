@@ -1,3 +1,1 @@
-import CodeFund from "./CodeFund"
-
-export { CodeFund }
+export { CodeFund } from "./CodeFund"
