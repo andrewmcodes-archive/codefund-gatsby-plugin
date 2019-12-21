@@ -27,8 +27,7 @@
     "jest": "^24.9.0",
     "prettier": "^1.15.3",
     "regenerator-runtime": "^0.13.1",
-    "ts-jest": "^24.2.0",
-    "typescript": "^3.6.4"
+    "ts-jest": "^24.2.0"
   },
   "peerDependencies": {
     "gatsby": ">2.0.0"
@@ -40,6 +39,7 @@
   ],
   "repository": "https://github.com/andrewmcodes/codefund-gatsby-plugin",
   "dependencies": {
-    "gatsby-plugin-ts": "^2.0.1"
+    "gatsby-plugin-ts": "^2.0.1",
+    "typescript": "^3.6.4"
   }
 }
