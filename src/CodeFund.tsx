@@ -1,6 +1,8 @@
 import React from "react"
-export function CodeFund() {
-  return (
+
+export default class CodeFund extends React.Component {
+  render() {
+    return (
     <div id="codefund"></div>
-  )
+  )}
 }
