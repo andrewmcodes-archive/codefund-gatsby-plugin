@@ -28,4 +28,15 @@ plugins: [
 ]
 ```
 
-Then in your view, just use
+Then in your view, just import the package and render it:
+
+```jsx
+import { CodeFund } from "@codefund/gatsby-plugin"
+
+export default class FooBar extends React.Component {
+  render() {
+    return (
+      <CodeFund />
+    )
+  }
+}
