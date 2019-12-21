@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@codefund/gatsby-plugin onRenderBody in production mode sets the correct head components 1`] = `
+Array [
+  Array [
+    Array [
+      <script
+        async="async"
+        src="https://app.codefund.io/properties/1/funder.js"
+      />,
+    ],
+  ],
+]
+`;
